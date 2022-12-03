@@ -1,0 +1,99 @@
+body{
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: -moz-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: -webkit-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: -o-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
+}
+/*----------------Home-Page------------------*/
+imag {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.bracketPic {
+    display: grid;
+    margin-left: 22%;
+    margin-right: 50%;
+    grid-template-rows: 400px 400px 400px 400px;
+    grid-template-columns: 400px 400px ;
+}
+
+.teamPic{
+    display: grid;
+    margin-left: 30%;
+    margin-right: 50%;
+    grid-template-rows: 200px 200px 200px;
+    grid-template-columns: 200px 200px 200px;
+}
+
+
+   body {
+       display: flex;
+       justify-content: center;
+   }
+.box {
+
+    background: #444;
+    border: 1px solid #555;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
+   center {
+       display: flex;
+       justify-content: center;
+   }
+
+   .groupheader{
+       background: #f9fafb;
+       padding: 10px;
+       border-radius: 5px;
+   }
+   .form-control{
+       width: 50%;
+   }
+   .card-text{
+       text-emphasis: black;
+   }
+.navbar-item{
+    background-image: -moz-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: -webkit-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: -o-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+}
+.card{
+    background-color:
+    background-image: -moz-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: -webkit-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: -o-linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+    background-image: linear-gradient(
+            15deg, #8d1b3d 0%, #8d1b3d 20%, white 50%, #8d1b3d 80%, #8d1b3d 100%);
+}
+
